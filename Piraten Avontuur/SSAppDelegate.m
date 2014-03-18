@@ -13,6 +13,11 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSString *music = [[NSBundle mainBundle]pathForResource:@"PiratenAvontuurMusic" ofType:@"mp3"];
+    audioPlayer = [[AVAudioPlayer alloc]initWithContentsOfURL:[NSURL fileURLWithPath:music] error:NULL];
+    audioPlayer.delegate=self;
+    audioPlayer.numberOfLoops = -1;
+    [audioPlayer play];
     return YES;
 }
 							
@@ -42,5 +47,7 @@
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
+
+
 
 @end

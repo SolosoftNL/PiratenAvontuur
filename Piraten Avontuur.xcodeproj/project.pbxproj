@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5201A54518D8E32800FB7AE4 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5201A54418D8E32800FB7AE4 /* AVFoundation.framework */; };
+		5201A54718D8E6B700FB7AE4 /* PiratenAvontuurMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5201A54618D8E6B700FB7AE4 /* PiratenAvontuurMusic.mp3 */; };
 		52526E0718C70CCD00AF3D2D /* SSTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 52526E0618C70CCD00AF3D2D /* SSTile.m */; };
 		52526E0A18C7119200AF3D2D /* SSFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 52526E0918C7119200AF3D2D /* SSFactory.m */; };
 		52C9247A18D8CA18007D3355 /* PiratenAvontuur1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9247918D8CA18007D3355 /* PiratenAvontuur1.jpeg */; };
@@ -53,6 +55,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5201A54418D8E32800FB7AE4 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		5201A54618D8E6B700FB7AE4 /* PiratenAvontuurMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PiratenAvontuurMusic.mp3; sourceTree = "<group>"; };
 		52526E0518C70CCD00AF3D2D /* SSTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSTile.h; sourceTree = "<group>"; };
 		52526E0618C70CCD00AF3D2D /* SSTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSTile.m; sourceTree = "<group>"; };
 		52526E0818C7119200AF3D2D /* SSFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFactory.h; sourceTree = "<group>"; };
@@ -104,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5201A54518D8E32800FB7AE4 /* AVFoundation.framework in Frameworks */,
 				52DDB56E18C6E317004D6347 /* CoreGraphics.framework in Frameworks */,
 				52DDB57018C6E317004D6347 /* UIKit.framework in Frameworks */,
 				52DDB56C18C6E317004D6347 /* Foundation.framework in Frameworks */,
@@ -192,6 +197,7 @@
 		52DDB56A18C6E317004D6347 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5201A54418D8E32800FB7AE4 /* AVFoundation.framework */,
 				52DDB56B18C6E317004D6347 /* Foundation.framework */,
 				52DDB56D18C6E317004D6347 /* CoreGraphics.framework */,
 				52DDB56F18C6E317004D6347 /* UIKit.framework */,
@@ -218,6 +224,7 @@
 		52DDB57218C6E317004D6347 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5201A54618D8E6B700FB7AE4 /* PiratenAvontuurMusic.mp3 */,
 				52C9247B18D8CA20007D3355 /* Background Images */,
 				52DDB57318C6E317004D6347 /* Piraten Avontuur-Info.plist */,
 				52DDB57418C6E317004D6347 /* InfoPlist.strings */,
@@ -330,6 +337,7 @@
 				52C9247D18D8CE9E007D3355 /* PiratenAvontuur01.jpg in Resources */,
 				52C9248B18D8D553007D3355 /* PiratenAvontuur8.jpg in Resources */,
 				52C9248118D8D32C007D3355 /* PiratenAvontuur3.jpg in Resources */,
+				5201A54718D8E6B700FB7AE4 /* PiratenAvontuurMusic.mp3 in Resources */,
 				52C9249118D8D690007D3355 /* PiratenAvontuur11.jpg in Resources */,
 				52C9248F18D8D60A007D3355 /* PiratenAvontuur10.jpg in Resources */,
 				52C9248718D8D46C007D3355 /* PiratenAvontuur6.jpg in Resources */,
