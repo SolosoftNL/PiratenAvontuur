@@ -9,6 +9,19 @@
 /* Begin PBXBuildFile section */
 		52526E0718C70CCD00AF3D2D /* SSTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 52526E0618C70CCD00AF3D2D /* SSTile.m */; };
 		52526E0A18C7119200AF3D2D /* SSFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 52526E0918C7119200AF3D2D /* SSFactory.m */; };
+		52C9247A18D8CA18007D3355 /* PiratenAvontuur1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9247918D8CA18007D3355 /* PiratenAvontuur1.jpeg */; };
+		52C9247D18D8CE9E007D3355 /* PiratenAvontuur01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9247C18D8CE9E007D3355 /* PiratenAvontuur01.jpg */; };
+		52C9247F18D8D2B9007D3355 /* PiratenAvontuur2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9247E18D8D2B9007D3355 /* PiratenAvontuur2.jpg */; };
+		52C9248118D8D32C007D3355 /* PiratenAvontuur3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248018D8D32C007D3355 /* PiratenAvontuur3.jpg */; };
+		52C9248318D8D373007D3355 /* PiratenAvontuur4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248218D8D373007D3355 /* PiratenAvontuur4.jpg */; };
+		52C9248518D8D3BD007D3355 /* PiratenAvontuur5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248418D8D3BD007D3355 /* PiratenAvontuur5.jpg */; };
+		52C9248718D8D46C007D3355 /* PiratenAvontuur6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248618D8D46C007D3355 /* PiratenAvontuur6.jpg */; };
+		52C9248918D8D51C007D3355 /* PiratenAvontuur7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248818D8D51C007D3355 /* PiratenAvontuur7.jpg */; };
+		52C9248B18D8D553007D3355 /* PiratenAvontuur8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248A18D8D553007D3355 /* PiratenAvontuur8.jpg */; };
+		52C9248D18D8D5A6007D3355 /* PiratenAvontuur9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248C18D8D5A6007D3355 /* PiratenAvontuur9.jpg */; };
+		52C9248F18D8D60A007D3355 /* PiratenAvontuur10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9248E18D8D60A007D3355 /* PiratenAvontuur10.jpg */; };
+		52C9249118D8D690007D3355 /* PiratenAvontuur11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9249018D8D690007D3355 /* PiratenAvontuur11.jpg */; };
+		52C9249318D8D6E6007D3355 /* PiratenAvontuur12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52C9249218D8D6E6007D3355 /* PiratenAvontuur12.jpg */; };
 		52DDB56C18C6E317004D6347 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52DDB56B18C6E317004D6347 /* Foundation.framework */; };
 		52DDB56E18C6E317004D6347 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52DDB56D18C6E317004D6347 /* CoreGraphics.framework */; };
 		52DDB57018C6E317004D6347 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52DDB56F18C6E317004D6347 /* UIKit.framework */; };
@@ -44,6 +57,19 @@
 		52526E0618C70CCD00AF3D2D /* SSTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSTile.m; sourceTree = "<group>"; };
 		52526E0818C7119200AF3D2D /* SSFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFactory.h; sourceTree = "<group>"; };
 		52526E0918C7119200AF3D2D /* SSFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFactory.m; sourceTree = "<group>"; };
+		52C9247918D8CA18007D3355 /* PiratenAvontuur1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur1.jpeg; sourceTree = "<group>"; };
+		52C9247C18D8CE9E007D3355 /* PiratenAvontuur01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur01.jpg; sourceTree = "<group>"; };
+		52C9247E18D8D2B9007D3355 /* PiratenAvontuur2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur2.jpg; sourceTree = "<group>"; };
+		52C9248018D8D32C007D3355 /* PiratenAvontuur3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur3.jpg; sourceTree = "<group>"; };
+		52C9248218D8D373007D3355 /* PiratenAvontuur4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur4.jpg; sourceTree = "<group>"; };
+		52C9248418D8D3BD007D3355 /* PiratenAvontuur5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur5.jpg; sourceTree = "<group>"; };
+		52C9248618D8D46C007D3355 /* PiratenAvontuur6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur6.jpg; sourceTree = "<group>"; };
+		52C9248818D8D51C007D3355 /* PiratenAvontuur7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur7.jpg; sourceTree = "<group>"; };
+		52C9248A18D8D553007D3355 /* PiratenAvontuur8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur8.jpg; sourceTree = "<group>"; };
+		52C9248C18D8D5A6007D3355 /* PiratenAvontuur9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur9.jpg; sourceTree = "<group>"; };
+		52C9248E18D8D60A007D3355 /* PiratenAvontuur10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur10.jpg; sourceTree = "<group>"; };
+		52C9249018D8D690007D3355 /* PiratenAvontuur11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur11.jpg; sourceTree = "<group>"; };
+		52C9249218D8D6E6007D3355 /* PiratenAvontuur12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PiratenAvontuur12.jpg; sourceTree = "<group>"; };
 		52DDB56818C6E317004D6347 /* Piraten Avontuur.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Piraten Avontuur.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52DDB56B18C6E317004D6347 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		52DDB56D18C6E317004D6347 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -124,6 +150,26 @@
 			name = Factory;
 			sourceTree = "<group>";
 		};
+		52C9247B18D8CA20007D3355 /* Background Images */ = {
+			isa = PBXGroup;
+			children = (
+				52C9249218D8D6E6007D3355 /* PiratenAvontuur12.jpg */,
+				52C9249018D8D690007D3355 /* PiratenAvontuur11.jpg */,
+				52C9248E18D8D60A007D3355 /* PiratenAvontuur10.jpg */,
+				52C9248C18D8D5A6007D3355 /* PiratenAvontuur9.jpg */,
+				52C9248A18D8D553007D3355 /* PiratenAvontuur8.jpg */,
+				52C9248818D8D51C007D3355 /* PiratenAvontuur7.jpg */,
+				52C9248618D8D46C007D3355 /* PiratenAvontuur6.jpg */,
+				52C9248418D8D3BD007D3355 /* PiratenAvontuur5.jpg */,
+				52C9248218D8D373007D3355 /* PiratenAvontuur4.jpg */,
+				52C9248018D8D32C007D3355 /* PiratenAvontuur3.jpg */,
+				52C9247E18D8D2B9007D3355 /* PiratenAvontuur2.jpg */,
+				52C9247C18D8CE9E007D3355 /* PiratenAvontuur01.jpg */,
+				52C9247918D8CA18007D3355 /* PiratenAvontuur1.jpeg */,
+			);
+			name = "Background Images";
+			sourceTree = "<group>";
+		};
 		52DDB55F18C6E317004D6347 = {
 			isa = PBXGroup;
 			children = (
@@ -172,6 +218,7 @@
 		52DDB57218C6E317004D6347 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				52C9247B18D8CA20007D3355 /* Background Images */,
 				52DDB57318C6E317004D6347 /* Piraten Avontuur-Info.plist */,
 				52DDB57418C6E317004D6347 /* InfoPlist.strings */,
 				52DDB57718C6E317004D6347 /* main.m */,
@@ -243,7 +290,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = SS;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = Solosoft;
 				TargetAttributes = {
 					52DDB58818C6E317004D6347 = {
@@ -275,8 +322,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52C9248918D8D51C007D3355 /* PiratenAvontuur7.jpg in Resources */,
+				52C9247F18D8D2B9007D3355 /* PiratenAvontuur2.jpg in Resources */,
 				52DDB58418C6E317004D6347 /* Images.xcassets in Resources */,
+				52C9247A18D8CA18007D3355 /* PiratenAvontuur1.jpeg in Resources */,
 				52DDB57618C6E317004D6347 /* InfoPlist.strings in Resources */,
+				52C9247D18D8CE9E007D3355 /* PiratenAvontuur01.jpg in Resources */,
+				52C9248B18D8D553007D3355 /* PiratenAvontuur8.jpg in Resources */,
+				52C9248118D8D32C007D3355 /* PiratenAvontuur3.jpg in Resources */,
+				52C9249118D8D690007D3355 /* PiratenAvontuur11.jpg in Resources */,
+				52C9248F18D8D60A007D3355 /* PiratenAvontuur10.jpg in Resources */,
+				52C9248718D8D46C007D3355 /* PiratenAvontuur6.jpg in Resources */,
+				52C9248518D8D3BD007D3355 /* PiratenAvontuur5.jpg in Resources */,
+				52C9248D18D8D5A6007D3355 /* PiratenAvontuur9.jpg in Resources */,
+				52C9248318D8D373007D3355 /* PiratenAvontuur4.jpg in Resources */,
+				52C9249318D8D6E6007D3355 /* PiratenAvontuur12.jpg in Resources */,
 				52DDB57F18C6E317004D6347 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -358,7 +418,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -397,7 +456,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -455,7 +513,6 @@
 		52DDB59E18C6E317004D6347 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Piraten Avontuur.app/Piraten Avontuur";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -478,7 +535,6 @@
 		52DDB59F18C6E317004D6347 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Piraten Avontuur.app/Piraten Avontuur";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
